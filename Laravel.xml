@@ -25,6 +25,7 @@
     <option name="SPACE_BEFORE_UNARY_NOT" value="true" />
     <option name="SPACE_AFTER_UNARY_NOT" value="true" />
     <option name="SPACES_WITHIN_SHORT_ECHO_TAGS" value="false" />
+    <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
   </PHPCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
@@ -38,15 +39,10 @@
     <option name="BLANK_LINES_AROUND_FIELD" value="1" />
     <option name="BLANK_LINES_AROUND_METHOD" value="2" />
     <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
-    <option name="BRACE_STYLE" value="2" />
-    <option name="CLASS_BRACE_STYLE" value="1" />
-    <option name="ELSE_ON_NEW_LINE" value="true" />
-    <option name="CATCH_ON_NEW_LINE" value="true" />
     <option name="FINALLY_ON_NEW_LINE" value="true" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
     <option name="SPACE_WITHIN_PARENTHESES" value="true" />
-    <option name="SPACE_WITHIN_IF_PARENTHESES" value="true" />
     <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACES" value="true" />
     <option name="SPACE_AFTER_TYPE_CAST" value="true" />
     <option name="CALL_PARAMETERS_WRAP" value="1" />
@@ -60,8 +56,5 @@
     <option name="DOWHILE_BRACE_FORCE" value="3" />
     <option name="WHILE_BRACE_FORCE" value="3" />
     <option name="FOR_BRACE_FORCE" value="3" />
-    <indentOptions>
-      <option name="USE_TAB_CHARACTER" value="true" />
-    </indentOptions>
   </codeStyleSettings>
 </code_scheme>
