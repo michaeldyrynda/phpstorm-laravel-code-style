@@ -2,7 +2,13 @@
 
 This is a code style based on PSR-2, as per Laravel's [Contribution Guide](http://laravel.com/docs/5.4/contributions#coding-style)
 
-To use this coding style, drop the `Laravel.xml` file in the `/config/codestyles/` subfolder within your [configuration directory](https://www.jetbrains.com/phpstorm/help/project-and-ide-settings.html).
+## Installation
+
+**Configuration folder** : Drop the `Laravel.xml` file in the `/config/codestyles/` subfolder within your [configuration directory](https://www.jetbrains.com/phpstorm/help/project-and-ide-settings.html).
+
+**IDE Settings** : Open your Settings (`Ctrl + Alt + S`) and go to `Editor > Code Style` section. Click on the `Scheme` wrench on the right and select `Import Scheme > Intellij IDEA code style XML`.
+
+## Notes
 
 This code style has been updated in line with Laravel 5.4, and matches Laravel's code styles as best as possible with PhpStorm's available configuration.
 
